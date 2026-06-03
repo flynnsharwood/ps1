@@ -8,11 +8,14 @@ points to be included
 ---
 characters
 
+The guide (office)
+manager (office)
 
+have 1-2 students from swecha to be normal, non-npc characters too.
 
 
 ---
-disclaimer
+[[disclaimer]]
 
 title screen
 
@@ -37,3 +40,10 @@ g:"obviously if they would be willing to take in new recruits, how bad could it 
 cut to swecha office.
 
 loud chatter. 
+
+fill the room with the circle-faces. 
+draw the office based on the pics 
+
+show a calendar. (sunday)
+
+- [ ] how are the FICs ? the next part depends on how they are.
