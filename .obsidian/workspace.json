@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ps1 swechha ep.md",
+                "file": "ps1 swecha ep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ps1 swechha ep"
+              "title": "ps1 swecha ep"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ps1 psd office scenes.md",
+                "file": "ps1 swecha ep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ps1 psd office scenes"
+              "title": "ps1 swecha ep"
             }
           }
         ],
@@ -201,9 +201,9 @@
   },
   "active": "509e5737b526fbed",
   "lastOpenFiles": [
+    "ps1 psd office scenes.md",
     "ps1 animatic.md",
-    "ps1 swechha ep.md",
-    "Welcome.md",
-    "ps1 psd office scenes.md"
+    "ps1 swecha ep.md",
+    "Welcome.md"
   ]
 }
