@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ps1 animatic.md",
+                "file": "ps1 swechha ep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ps1 animatic"
+              "title": "ps1 swechha ep"
             }
           },
           {
@@ -27,31 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ps1 animatic.md",
+                "file": "ps1 psd office scenes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ps1 animatic"
+              "title": "ps1 psd office scenes"
             }
           }
-        ]
-      },
-      {
-        "id": "f9227e22d53af5aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7100ed8109d8f30b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -213,11 +199,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "d8f0fedd4ef2df53",
+  "active": "509e5737b526fbed",
   "lastOpenFiles": [
-    "ps1 swechha ep.md",
-    "ps1 psd scenes.md",
     "ps1 animatic.md",
-    "Welcome.md"
+    "ps1 swechha ep.md",
+    "Welcome.md",
+    "ps1 psd office scenes.md"
   ]
 }

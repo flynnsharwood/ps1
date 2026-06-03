@@ -4,4 +4,15 @@ points to be included
 - office change (ask for more info regarding this)
 - disgusting washrooms.
 - no ac
-- example point
+
+---
+characters
+
+
+
+
+---
+disclaimer
+
+title screen
+
