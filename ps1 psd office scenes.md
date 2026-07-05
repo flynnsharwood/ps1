@@ -1,3 +1,5 @@
+![[20260214_204526.jpg]]
+
 scene 1 
 
 Black. PSD meeting room, 1973
