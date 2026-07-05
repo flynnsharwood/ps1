@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters.md",
+                "file": "ps1 swecha ep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "characters"
+              "title": "ps1 swecha ep"
             }
           }
         ]
@@ -186,11 +186,11 @@
   },
   "active": "8f7af494bc79b198",
   "lastOpenFiles": [
+    "ps1 psd office scenes.md",
     "ps1 swecha ep.md",
-    "characters.md",
     "ps1 animatic.md",
     "disclaimer.md",
-    "ps1 psd office scenes.md",
+    "characters.md",
     "Welcome.md"
   ]
 }
